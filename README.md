@@ -28,6 +28,10 @@ MATERIAL Y EQUIPO REQUERIDO
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 	8.5.1. Transforme a su forma polar:
+	
+![YzMnr4IS01 (1)](https://user-images.githubusercontent.com/93826527/155039637-caa91c14-d689-485f-8f75-84640b859d55.png)
+
+
 
 	8.5.2 Transforme a su forma rectangular:
 
