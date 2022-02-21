@@ -45,6 +45,15 @@ MATERIAL Y EQUIPO REQUERIDO
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 	8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+	
+![Screenshot 2022-02-21 185511](https://user-images.githubusercontent.com/93826527/155039912-5c80a899-fc0e-4707-8caf-b94207503164.png)
+
+![Screenshot 2022-02-21 185605](https://user-images.githubusercontent.com/93826527/155039973-a2f76fcd-fb8a-4344-928d-27c8e2f6a89f.png)
+
+![Screenshot 2022-02-21 185646](https://user-images.githubusercontent.com/93826527/155040020-336cae75-04c7-43af-8c77-1a60db87c85b.png)
+
+![Screenshot 2022-02-21 185735](https://user-images.githubusercontent.com/93826527/155040050-5dc8d72b-f187-475f-bee5-2501d3b696f6.png)
+
       
 
 ## 5. VIDEO
