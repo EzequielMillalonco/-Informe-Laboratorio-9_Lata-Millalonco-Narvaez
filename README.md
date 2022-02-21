@@ -8,11 +8,11 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
         Específicos: 
  
-1. 
+1. Analizar  el comportamiento de fasores en su forma rectangular y polar, asi como sus representaciones gráficas
         
-2. 
+2. Efectuar conversiones entre las formas rectangular y polar de los fasores
         
-3. 
+3. Expresar cantidades fasoriales tanto en forma rectangular como en forma polar
         
 
 ## 2. MARCO TEÓRICO
