@@ -117,7 +117,8 @@ Para la forma polar simplemente pasamos la respuesta de forma rectangular a pola
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 9¨ en donde.
+        Link del video ¨Informe de laboratorio 9¨ en donde se realizan operaciones aritméticas con números complejos, 
+	tanto en su forma polar como rectangular.
  
 https://youtu.be/PVl0vspLbhg
  
