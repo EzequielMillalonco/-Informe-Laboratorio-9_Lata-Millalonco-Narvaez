@@ -125,13 +125,14 @@ Para la forma polar simplemente pasamos la respuesta de forma rectangular a pola
 
 ## 6. CONCLUSIONES
 
-   1. 
+   1. Se pudo comprender el comportamiento de fasores en su forma rectangular y polar, asi como sus representaciones gráficas
+
+   2. Se pudo efectuar las conversiones respectivas entre las formas rectangular y polar de los fasores, asi como su comprobacion por medio de simuladores.
         
-   2. 
-        
-   3. 
-        
+   3. Las cantidades fasoriales pudieron ser expresadas correctamente tanto en forma rectangular como en forma polar
+    
 
 
 ## 7. BIBLIOGRAFÍA
 
+Alulema Darwin. Guías Tercer Parcial https://drive.google.com/file/d/172KKkHM1atZPr1Z069d2S9WYJns28DT9/view
