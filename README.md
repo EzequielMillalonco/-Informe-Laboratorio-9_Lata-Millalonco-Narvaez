@@ -54,6 +54,15 @@ MATERIAL Y EQUIPO REQUERIDO
 
 ![Screenshot 2022-02-21 185735](https://user-images.githubusercontent.com/93826527/155040050-5dc8d72b-f187-475f-bee5-2501d3b696f6.png)
 
+![Screenshot 2022-02-21 190125](https://user-images.githubusercontent.com/93826527/155040308-0d40b158-dd1f-4f08-b20d-abb1ca143f6f.png)
+
+![Screenshot 2022-02-21 190204](https://user-images.githubusercontent.com/93826527/155040338-e0dc146f-6d25-4982-9669-320ccf997bea.png)
+
+![Screenshot 2022-02-21 190244](https://user-images.githubusercontent.com/93826527/155040363-51025ba7-8f0b-466f-939e-35bda3ca160a.png)
+
+![Screenshot 2022-02-21 190337](https://user-images.githubusercontent.com/93826527/155040414-4724080d-c362-4a39-b797-59471a814663.png)
+
+
       
 
 ## 5. VIDEO
