@@ -17,7 +17,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ## 2. MARCO TEÓRICO
 
-
+![Diagrama en blanco (15)](https://user-images.githubusercontent.com/93834732/155071869-4f4cc5f6-a057-4215-90ff-e17183c1af95.png)
 
 MATERIAL Y EQUIPO REQUERIDO
 
