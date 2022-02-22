@@ -41,6 +41,56 @@ MATERIAL Y EQUIPO REQUERIDO
 	8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su 
 	forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/93834732/155054385-caa67bbe-b156-45e2-834d-3db3424c7db6.png)
+
+Para la forma Rectangular
+
+Primero pasamos a forma rectangular el tercer termino
+
+![image](https://user-images.githubusercontent.com/93834732/155057084-fdcec458-26da-4fcf-9a36-3185532d8d8b.png)
+
+Segundo hacemos la multiplicacion algebraica de lo que esta dentro de corchetes 
+
+![image](https://user-images.githubusercontent.com/93834732/155056415-57ed7849-2960-4544-b1d2-b4e2cae2cbc7.png)
+
+Tercero hacemos la suma algebraica
+
+![image](https://user-images.githubusercontent.com/93834732/155056866-2a877eda-699c-4f15-89ca-f95512630817.png)
+
+
+Para la forma polar solo pasamos el resultado de rectangular a polar
+
+![image](https://user-images.githubusercontent.com/93834732/155058331-4c82ebba-67f7-49ff-96d7-99cec5236a48.png)
+
+
+![image](https://user-images.githubusercontent.com/93834732/155058357-cefe4aa9-5508-4dc8-aef7-5ea2238dd274.png)
+
+Primero pasamos a forma rectangular tanto el primer termino como el numerador de la fraccion
+
+![image](https://user-images.githubusercontent.com/93834732/155058842-f2a1c92e-2985-4e8c-8935-383f44ed7598.png)
+
+Segundo realizamos las operaciones algebraicas correspondientes
+
+![image](https://user-images.githubusercontent.com/93834732/155059684-93571515-5ae9-4970-8956-757a2cfe749b.png)
+
+Para la forma polar simplemente pasamos la respuesta de forma rectangular a polar
+
+![image](https://user-images.githubusercontent.com/93834732/155059975-35c04879-1354-4ecd-afb3-3889da637141.png)
+
+
+![image](https://user-images.githubusercontent.com/93834732/155060011-3017d903-d013-445f-a314-3c00bc6fd926.png)
+
+Primero pasamos de polar a rectangular el denominador de la fraccion asi como el segundo termino
+
+![image](https://user-images.githubusercontent.com/93834732/155060736-4253bcb9-766d-40b5-86a1-91c02ff8c8b5.png)
+
+Segundo hacemos las operaciones algebraicas
+
+![image](https://user-images.githubusercontent.com/93834732/155061503-54fd3bde-b4be-4094-b0e4-cffb8fcd3434.png)
+
+Para la forma polar simplemente pasamos la respuesta de forma rectangular a polar
+
+![image](https://user-images.githubusercontent.com/93834732/155061727-50ee3e0c-1ec5-4135-904a-f9f3bd3f550b.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
