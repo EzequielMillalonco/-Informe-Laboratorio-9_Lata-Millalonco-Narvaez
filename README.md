@@ -35,7 +35,7 @@ MATERIAL Y EQUIPO REQUERIDO
 
 	8.5.2 Transforme a su forma rectangular:
 
-![image](https://user-images.githubusercontent.com/93396250/154874809-3d3f1857-fc29-4c8d-b059-ba73ab8cc13f.png)
+![image](https://user-images.githubusercontent.com/93396250/155066887-62cb182b-0e28-4eb4-9908-70469fc3e23c.png)
 
 
 	8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su 
